@@ -1,3 +1,5 @@
 {
-  "commands": [1]
+  "commands": [
+    "clear A8"
+  ]
 }
